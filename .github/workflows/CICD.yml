@@ -1,9 +1,9 @@
-name: CI/CD  // 유동적인 name
+name: CI/CD
 
 on:
   push:
     branches:
-    - master
+    - 11th
   workflow_dispatch:
 
 jobs:
